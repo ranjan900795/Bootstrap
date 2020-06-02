@@ -1,1 +1,1 @@
-This project was a ongoing part of a course related to Bootstrap in-depth. It consists of all the major Bootstrap features like Carousel, Modals, BreadCrumb, Jumbotron, Navbar, Card, Collapse, Accordion, Nav pills and Tabbed navigation.
+This project was a part of a course related to Bootstrap in-depth. It consists of all the major Bootstrap features like Carousel, Modals, BreadCrumb, Jumbotron, Navbar, Card, Collapse, Accordion, Nav pills and Tabbed navigation.
